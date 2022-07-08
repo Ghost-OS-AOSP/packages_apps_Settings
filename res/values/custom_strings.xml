@@ -117,4 +117,8 @@
     <string name="screen_off_fod_title">Screen off FOD</string>
     <string name="screen_off_fod_summary">Keep FOD enabled when the screen is off</string>
 
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+
 </resources>
